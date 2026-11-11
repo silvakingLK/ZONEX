@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#40FFFFFF"> <!-- Cor do efeito de clique (Ripple) -->
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Fundo translúcido elegante (aprox 17% de opacidade no branco) -->
+            <solid android:color="#2BFFFFFF" />
+            <!-- Borda fina branca semi-transparente (50% opacidade) -->
+            <stroke android:width="1.5dp" android:color="#80FFFFFF" />
+            <!-- Cantos bem arredondados -->
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+</ripple>

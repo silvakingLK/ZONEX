@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Óculos Cyber/Visor VR -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M3,9h18v4c0,2.21 -1.79,4 -4,4H7c-2.21,0 -4,-1.79 -4,-4V9z" />
+    <path
+        android:fillColor="#1A1E24"
+        android:pathData="M8,11h8v2H8z" />
+</vector>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fundo: #0F141C com ~95% opacidade -->
+    <solid android:color="#F20F141C" />
+    <!-- Borda Ciano Néon de 2dp -->
+    <stroke android:width="2dp" android:color="#00E5FF" />
+    <!-- Cantos arredondados de 20dp -->
+    <corners android:radius="20dp" />
+</shape>

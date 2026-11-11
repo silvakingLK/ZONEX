@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fundo Glassmorphism Translúcido (90% Opacidade de #0F1218) -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#E60F1218" />
+        </shape>
+    </item>
+    <!-- Borda Ciano Fina no Topo -->
+    <item android:bottom="0dp" android:gravity="top">
+        <shape android:shape="rectangle">
+            <size android:height="1dp" />
+            <solid android:color="#3300E5FF" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#4DEF4444"> <!-- Ripple em Vermelho Alerta com opacidade -->
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Fundo translúcido escuro (aproximadamente 90% opaco) -->
+            <solid android:color="#E610141D" />
+            <!-- Borda fina Vermelho Alerta/Neon -->
+            <stroke android:width="1.5dp" android:color="#EF4444" />
+            <!-- Cantos totalmente arredondados (estilo cápsula) -->
+            <corners android:radius="28dp" />
+        </shape>
+    </item>
+</ripple>

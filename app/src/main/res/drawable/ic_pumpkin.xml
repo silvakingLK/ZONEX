@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Corpo da Abóbora -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M12,2c-1,0 -2,1 -2,2h4c0,-1 -1,-2 -2,-2zM5,8c-2,0 -3,2 -3,5c0,4 3,7 10,7c7,0 10,-3 10,-7c0,-3 -1,-5 -3,-5c-1,0 -2,1 -2,2c0,-1 -2,-2 -5,-2c-3,0 -5,1 -5,2c0,-1 -1,-2 -2,-2z" />
+    <!-- Olhos e Boca (Vazados/Escuros) -->
+    <path
+        android:fillColor="#0F1218"
+        android:pathData="M7.5,13l1.5,-2l1.5,2zM15.5,13l-1.5,-2l-1.5,2zM9,15h6l-1.5,2h-3z" />
+</vector>
